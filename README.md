@@ -1,12 +1,5 @@
-Real-world business cases focused on:
+Executive Transformation Portfolio
 
-Operational Excellence
-Business Transformation
-Continuous Improvement
-Change Management
-Manufacturing Strategy
-Digital Transformation
-Executive Decision Making
-Performance Management
+Business Transformation | Operational Excellence | Executive Strategy
 
-Each project demonstrates how I approach complex business challenges using structured thinking, data-driven decisions and leadership principles.
+Helping organizations transform complexity into sustainable competitive advantage.
