@@ -1,6 +1,6 @@
-# Operational Turnaround: Recovering a Plant Operating at 18% Losses
+# From Reactive Organization to High-Performance Business
 
-**Capability:** Operational Excellence  
+**Capability:** Business Transformation  
 **Portfolio:** The Transformation Lab  
 **Author:** Gabriele Miranda
 
@@ -8,7 +8,7 @@
 
 ## 1. Executive Summary
 
-A manufacturing site is operating with 18% productivity losses, unstable output, frequent schedule changes, and low confidence in operational data. Leadership needs a recovery plan that produces results within 90 days without compromising safety or quality.
+A growing organization has strong people but operates through urgency, informal decisions, and competing priorities. Results depend on individual heroics rather than a reliable management system.
 
 The recommended approach combines strategic prioritization, process redesign, governance, data discipline, leadership alignment, and change management. The objective is not only to improve short-term performance, but to create a management system capable of sustaining results.
 
@@ -18,11 +18,11 @@ The organization must address the immediate performance gap while protecting saf
 
 ### Current-State Signals
 
-- Fragmented loss reporting
-- Reactive daily management
-- Unclear ownership of constraints
-- Excessive schedule changes
-- Limited problem-solving discipline
+- No shared strategic priorities
+- Decisions escalate unnecessarily
+- Functions optimize locally
+- Meetings focus on status instead of decisions
+- Accountability is ambiguous
 
 ## 3. Diagnostic Approach
 
@@ -45,11 +45,11 @@ The assessment would combine:
 
 ## 5. Recommended Transformation
 
-- Create one loss taxonomy and daily performance baseline
-- Stabilize the production plan and critical resources
-- Launch tiered daily management
-- Prioritize the three largest loss families
-- Build supervisor capability in structured problem solving
+- Translate strategy into five enterprise priorities
+- Define decision rights and governance forums
+- Create cross-functional value streams
+- Introduce quarterly business reviews
+- Deploy leadership routines and behavioral expectations
 
 ## 6. Transformation Roadmap
 
@@ -97,11 +97,11 @@ The assessment would combine:
 
 ## 8. KPI Framework
 
-- Loss rate below 8% in 90 days
-- Schedule adherence above 90%
-- OEE improvement of 8–12 points
-- 30% reduction in unplanned downtime
-- Weekly verified financial impact
+- Priority alignment score above 85%
+- Decision lead time reduced by 40%
+- Cross-functional milestone adherence above 90%
+- Employee clarity and engagement improvement
+- Reduced executive escalation volume
 
 KPIs should include clear definitions, owners, data sources, targets, thresholds, and required actions when performance moves outside tolerance.
 
